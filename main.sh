@@ -4,7 +4,7 @@ export CUDA_VISIBLE_DEVICES=0
 
 ###############
 model_name="llava-v1.5-7b"
-model_dir="/home/ghc240000/models/llava-1.5-7b-hf"
+model_dir="./models/llava-1.5-7b-hf"
 ###############
 
 
